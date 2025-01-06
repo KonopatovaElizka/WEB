@@ -5,3 +5,7 @@
 [Чек-лист](https://docs.google.com/spreadsheets/d/19bc1S8jSLFlZvNgIrTSdLvSn7uHLIgnDWLUE8wOCOXo/edit?usp=sharing)
 
 [Тест-кейсы](https://drive.google.com/file/d/1Ts86808EjUNnY5l5H8lGviRjGSoKUKe0/view?usp=sharing)
+
+[Отчет о дефектах XLS](https://docs.google.com/spreadsheets/d/1ZsOQLDueU9LODYqkubbv8GyifgWRm1Zx/edit?usp=sharing&ouid=115671786412574044896&rtpof=true&sd=true)
+
+[Отчет о дефектах pdf](https://drive.google.com/file/d/1BFGAWhQ4joMsp-dBV6upg5KvkaW-G8K3/view?usp=sharing)
