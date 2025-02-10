@@ -9,3 +9,5 @@
 [Отчет о дефектах XLS](https://docs.google.com/spreadsheets/d/1ZsOQLDueU9LODYqkubbv8GyifgWRm1Zx/edit?usp=sharing&ouid=115671786412574044896&rtpof=true&sd=true)
 
 [Отчет о дефектах pdf](https://drive.google.com/file/d/1BFGAWhQ4joMsp-dBV6upg5KvkaW-G8K3/view?usp=sharing)
+
+[Перехват и изменение трафика](https://disk.yandex.ru/d/YgfGKpc66hQV9A)
